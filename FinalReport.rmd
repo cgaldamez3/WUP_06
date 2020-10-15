@@ -38,7 +38,7 @@ barchartGC(~POSTLIFE + BIGBANG,data=GSS, type="percent")
 
 ```
 
-Looking at this graph it appears there is a lot more poeple who believe in postliife and the majority of these people  believe the BIgbang theory is false. of all the people who do not believe in postlife, more of them believe in the bigbang theory. There is a statistical a significant difference between believeing in postlife versus the bigbang theory.
+Looking at this graph it appears there is a lot more poeple who believe in postliife and the majority of these people  believe the Bigbang theory is false. of all the people who do not believe in postlife, more of them believe in the bigbang theory. There is a statistical a significant difference between believing in postlife versus the bigbang theory.
 
 ### Numerical Descriptive Results
 
